@@ -18,6 +18,10 @@ public class test {
         System.out.println("print multi number "+"= " + a + " * " + b + " = " + multi);
         System.out.println("print div number "+"= " + a + " / " + b + " = " + div);
         System.out.println("print mod number "+"= " + a + " % " + b + " = " + mod);
+        
+
+
+
 
     }
 
